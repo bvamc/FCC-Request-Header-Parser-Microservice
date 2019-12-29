@@ -1,0 +1,32 @@
+{
+  "name": "requestheaderparsermicroservice",
+  "version": "1.0.0",
+  "description": "FCC API and Microservices project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "cors": "^2.8.1"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvamc/FCC-Request-Header-Parser-Microservice.git"
+  },
+  "author": "Vamsidhar Bada",
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvamc/FCC-Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/bvamc/FCC-Request-Header-Parser-Microservice#readme"
+}
