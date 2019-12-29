@@ -7,26 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "author": "Vamsidhar Bada",
+  "license": "MIT",
   "dependencies": {
-    "express": "^5.0.0-alpha.2",
-    "cors": "^2.8.1"
+    "express": "^4.17.1",
+    "cors": "^2.8.0"
   },
   "engines": {
-    "node": "4.4.5"
+    "node": "10.x"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bvamc/FCC-Request-Header-Parser-Microservice.git"
   },
-  "author": "Vamsidhar Bada",
   "keywords": [
     "node",
     "hyperdev",
-    "express"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bvamc/FCC-Request-Header-Parser-Microservice/issues"
-  },
-  "homepage": "https://github.com/bvamc/FCC-Request-Header-Parser-Microservice#readme"
+    "express",
+    "freecodecamp"
+  ]
 }
